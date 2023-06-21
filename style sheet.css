@@ -1,0 +1,66 @@
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+}
+
+/* Heading CSS */
+h1{
+    text-align:center;
+    font-style:italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white ;
+    background-color: darkseagreen;
+}
+/* Summary Title CSS - Alignment */
+h2{
+    text-align:center;
+    font-style:normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white ;
+    background-color:#C58940;
+}
+
+/* H3 Title Font - Element Selector */
+h3{
+
+    font-style:normal;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+/* H4 Title Font - Element Selector */
+h4{
+
+    font-style:normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* List Item Font - Element Selector */
+li {
+    
+        font-style:normal;
+        font-family: Arial, Helvetica, sans-serif;
+    
+}
+/* Summary Paragraph Font - Element Selector */
+
+.Summary {
+    text-align:center;
+    font-style:normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;      
+}
+/* Image Alignment - Class Selector */
+.center {
+         display:block;
+         margin-left:auto;
+         margin-right:auto;
+         width:50%;
+         height:fit-content;
+}
+/* Background Colour */
+body{
+    background-color: antiquewhite;
+}
+/* H1 Heading Background Color */
